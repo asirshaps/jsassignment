@@ -1,0 +1,40 @@
+/* p{
+     
+    size: 50px;
+    text-align: center;
+    color: black;
+} */
+#demo {
+   text-align: center;
+}
+.navbar-brand{
+    text-align: center;
+    font-weight: 500;
+    /* font-size: 250px; */
+    padding: 46%;
+    text-decoration: underline;
+
+}
+#form{
+    margin-left: 18px;
+}
+#text{
+    color: white;
+    margin-left: 18px;
+}
+body{
+    background-size: cover;
+}
+*{
+    padding: 0%;
+    margin: 0%;
+}
+p {
+    text-decoration: underline; 
+    color:blue;
+    margin-left: 18px;
+    font-size: 25px;
+    font-weight: 500;
+    /* background-color: blue; */
+
+}
